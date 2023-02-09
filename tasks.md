@@ -16,3 +16,7 @@ Ideas
 ============================================
 - take the contents of 10 files and put it in one file
 - print the first line from the 3 biggest files in the folder 
+- Use the tr command to translate or delete characters from a file. For example, you could use the command tr -d '[:digit:]' < file.txt to delete all digits from a file.
+    - use it to filter certain charset out of a file
+- use rsync to merge two directory structures
+- use diff to find message in delta of two files
